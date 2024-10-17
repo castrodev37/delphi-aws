@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/01 11:10:36.000.022,=C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/20 19:09:51.000.948,=C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/20 19:15:41.000.134,=C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/10/17 19:19:29.031,=C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/10/17 19:31:21.783,C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\AWS\S3\index.pas=C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/10/17 19:31:21.783,C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\AWS\S3\index.dfm=C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/10/17 19:31:30.750,C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\AWS\S3\s3.dproj=C:\Users\cayo.castro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
